@@ -1,0 +1,1 @@
+Welcome to the source code for my personal website. The design is based on the cover example from bootstrap https://getbootstrap.com/docs/4.3/examples/cover/. 
